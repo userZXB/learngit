@@ -7,3 +7,4 @@ I am so confused
 this is a development branch
 now,I am ahead of local file
 conflict,conflict
+now,i am ahead!
